@@ -12,14 +12,14 @@
 
 ## ⟡ Tentang Gw
 
-```yaml
-nama_brand:    D3V1ST
-alias:         Xavier / DimszMC
-lokasi:        Indonesia
-fokus:         Web Dev · Backend · Bot Dev · Server Management · UI/UX
-stack_utama:   JavaScript · Node.js · Flutter
-minat:         Minecraft Bedrock Add-on Development
-```
+| | |
+|---|---|
+| **Nama Brand** | D3V1ST |
+| **Alias** | Xavier / DimszMC |
+| **Lokasi** | Indonesia |
+| **Fokus** | Web Dev · Backend · Bot Dev · Server Management · UI/UX |
+| **Stack Utama** | JavaScript · Node.js · Flutter |
+| **Minat** | Minecraft Bedrock Add-on Development |
 
 D3V1ST adalah brand teknologi independen yang gw bangun sendiri dari nol — mencakup pengembangan web, sistem backend, bot otomasi, sampai manajemen server. Sebagian besar proyek gw dibangun dengan pendekatan *build from scratch*: mulai dari sistem automasi enterprise tanpa dependency eksternal, toolkit OSINT modular untuk riset keamanan, sampai bot Telegram multi-modul untuk analisis defensif.
 
