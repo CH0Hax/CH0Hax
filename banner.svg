@@ -1,0 +1,46 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&amp;family=EB+Garamond:ital@1&amp;display=swap');
+      .title { font-family: 'Cormorant Garamond', 'Playfair Display', serif; font-weight: 700; }
+      .subtitle { font-family: 'EB Garamond', serif; font-style: italic; }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#1A0B2E"/>
+      <stop offset="100%" stop-color="#0D0221"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6B21A8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#6B21A8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E9D5FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#E9D5FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#A855F7" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <circle cx="150" cy="60" r="220" fill="url(#glow2)"/>
+  <circle cx="1050" cy="250" r="260" fill="url(#glow1)"/>
+  <circle cx="600" cy="150" r="180" fill="url(#glow3)"/>
+
+  <g opacity="0.25" stroke="#A855F7" stroke-width="1">
+    <path d="M 100 260 Q 300 200 500 260 T 900 260 T 1150 240" fill="none"/>
+    <path d="M 50 40 Q 250 90 450 40 T 850 50 T 1150 30" fill="none"/>
+  </g>
+
+  <text x="600" y="150" text-anchor="middle" class="title" font-size="88" fill="#E9D5FF">D3V1ST</text>
+  <text x="600" y="195" text-anchor="middle" class="subtitle" font-size="26" fill="#C4A6E8">Indonesian Independent Developer</text>
+
+  <line x1="450" y1="215" x2="750" y2="215" stroke="#A855F7" stroke-width="1" stroke-opacity="0.5"/>
+</svg>

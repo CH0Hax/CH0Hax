@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B4E,50:6B21A8,100:A855F7&height=220&section=header&text=D3V1ST&fontSize=70&fontColor=E9D5FF&fontAlignY=35&desc=Indonesian%20Independent%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <a href="https://github.com/CH0Hax">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Web+%26+Backend+Developer;WhatsApp+%2F+Telegram+Bot+Developer;Minecraft+Bedrock+Add-on+Creator;alias%3A+Xavier+%2F+DimszMC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Web+%26+Backend+Developer;WhatsApp+%2F+Telegram+Bot+Developer;Minecraft+Bedrock+Add-on+Creator;alias%3A+Xavier+%2F+DimszMC" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
-
-<img align="right" width="35%" src="https://raw.githubusercontent.com/CH0Hax/CH0Hax/main/assets/coding.gif" alt="coding" />
 
 ## ⟡ Tentang Gw
 
@@ -23,12 +21,16 @@ stack_utama:   JavaScript · Node.js · Flutter
 minat:         Minecraft Bedrock Add-on Development
 ```
 
-- 🛠️ Bangun sistem backend, bot WhatsApp/Telegram, dan tools otomasi dari nol
-- 🎨 Suka desain UI/UX minimalis dengan sentuhan dark purple aesthetic
-- 🧩 Eksplorasi Minecraft Bedrock add-on development
-- 📖 Menulis novel cultivation/dark fantasy di waktu senggang
+D3V1ST adalah brand teknologi independen yang gw bangun sendiri dari nol — mencakup pengembangan web, sistem backend, bot otomasi, sampai manajemen server. Sebagian besar proyek gw dibangun dengan pendekatan *build from scratch*: mulai dari sistem automasi enterprise tanpa dependency eksternal, toolkit OSINT modular untuk riset keamanan, sampai bot Telegram multi-modul untuk analisis defensif.
 
-<br clear="right"/>
+Selain ngoding, gw juga aktif nulis novel cultivation/dark fantasy dan eksplorasi dunia Minecraft Bedrock add-on development sebagai proyek sampingan yang gw nikmatin.
+
+**Yang sedang gw kerjakan:**
+
+- Mengembangkan dan menyempurnakan `SRC-Osint-Tools` — toolkit OSINT modular untuk riset keamanan dan edukasi
+- Membangun sistem bot Telegram/WhatsApp dengan arsitektur modular
+- Eksperimen desain UI/UX dengan estetika dark purple minimalis
+- Menulis *Journey Beyond Eternity*, novel dark fantasy cultivation
 
 ## ⟡ Tech Stack
 
@@ -41,6 +43,16 @@ minat:         Minecraft Bedrock Add-on Development
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-2D0B4E?style=for-the-badge&logo=whatsapp&logoColor=E9D5FF)
 ![Linux](https://img.shields.io/badge/Linux_Server-2D0B4E?style=for-the-badge&logo=linux&logoColor=E9D5FF)
 ![Minecraft](https://img.shields.io/badge/Minecraft_Bedrock-2D0B4E?style=for-the-badge&logo=minecraft&logoColor=E9D5FF)
+
+</div>
+
+## ⟡ Proyek Unggulan
+
+<div align="center">
+
+<a href="https://github.com/CH0Hax/SRC-Osint-Tools">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CH0Hax&repo=SRC-Osint-Tools&theme=dark&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF" />
+</a>
 
 </div>
 
